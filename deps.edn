@@ -2,7 +2,7 @@
  :deps  {org.clojure/clojure {:mvn/version "1.10.1"}
          org.clojure/clojurescript {:mvn/version "1.10.520"}
          com.github.invertisment/repro-parentproj
-         {:git/sha "1a7a729a26f76cb8ba48c3c6f55cf6092171e148"
+         {:git/sha "4129f58c2fb729e3c182ab2931b89ee6c18bb3bb"
           :git/url "https://github.com/Invertisment/repro-parentproj.git"}
          io.github.clojure/tools.build {:git/tag "v0.8.1"
                                         :git/sha "7d40500"}}
